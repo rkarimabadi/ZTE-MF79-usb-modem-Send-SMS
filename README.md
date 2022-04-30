@@ -96,3 +96,5 @@ you need AD at this stem, "stok" cookie alse provided to requet internally.
 [https://github.com/aghazadehm](https://github.com/paulo-correia/ZTE_API_and_Hack) - for  MD5 hash and UTF8 Encoding
   
 [https://stackoverflow.com/a/25155746/3951494](https://github.com/paulo-correia/ZTE_API_and_Hack) - for  encode unicode string in "UCS2" format  
+
+  [https://github.com/gediz/trivial-tools-n-scripts/blob/master/superbox-hacks/v1-login-and-fetch-sms/poc.sh](https://github.com/gediz/trivial-tools-n-scripts/blob/master/superbox-hacks/) - for AD calculating algorithm
