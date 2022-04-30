@@ -79,4 +79,12 @@ at this step uri is **http://<modem_ip>/goform/goform_get_cmd_process** , and as
   
 3.Log out
   Log out is not nessesary, but modem has a protection mechanism, and mybe block you access to modem for 1 minute, and it is good to log out and the log in time to time.
-  
+```
+Method: POST
+
+curl -s --header "Referer: http://<modem_ip>/index.html" -d 'isTest=false&goformId=LOGOFF&AD=<hashcoded>' http://<modem_ip>/goform/goform_set_cmd_process
+
+
+if is OK {"result":"sucess"}
+```  
+you need AD at this stem, "stok" cookie alse provided to requet internally.
