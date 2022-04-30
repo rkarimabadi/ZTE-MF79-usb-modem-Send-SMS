@@ -91,6 +91,8 @@ you need AD at this stem, "stok" cookie alse provided to requet internally.
   
 ### Special thanks to:
 
-https://github.com/paulo-correia/ZTE_API_and_Hack - for list of Requests and PHP Class
-https://github.com/aghazadehm - for  MD5 hash and UTF8 Encoding
-https://stackoverflow.com/a/25155746/3951494 - for  encode unicode string in "UCS2" format  
+[https://github.com/paulo-correia/ZTE_API_and_Hack](https://github.com/paulo-correia/ZTE_API_and_Hack) - for list of Requests and PHP Class
+  
+[https://github.com/aghazadehm](https://github.com/paulo-correia/ZTE_API_and_Hack) - for  MD5 hash and UTF8 Encoding
+  
+[https://stackoverflow.com/a/25155746/3951494](https://github.com/paulo-correia/ZTE_API_and_Hack) - for  encode unicode string in "UCS2" format  
