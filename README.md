@@ -97,4 +97,4 @@ you need AD at this stem, "stok" cookie alse provided to requet internally.
   
 [Behzad Ebrahimi](https://github.com/paulo-correia/ZTE_API_and_Hack) - for  encode unicode string in "UCS2" format  
 
-[gediz/trivial-tools-n-scripts/blob/superbox-hacks/](https://github.com/gediz/trivial-tools-n-scripts/blob/master/superbox-hacks/v1-login-and-fetch-sms/poc.sh) - for AD calculating algorithm
+[gediz/trivial-tools-n-scripts/blob/superbox-hacks](https://github.com/gediz/trivial-tools-n-scripts/blob/master/superbox-hacks/v1-login-and-fetch-sms/poc.sh) - for AD calculating algorithm
